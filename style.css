@@ -1,0 +1,55 @@
+ *{
+     font-family: 'DM Serif Display', serif;
+ }
+ .mbanner {
+    background-repeat: no-repeat;
+     background-image: url(./images/nav-bg.png), linear-gradient(297.99deg, #FFEDBA 16.76%, #EE4D47 92%);
+     height: 100vh;
+     background-size: 100%;
+ }
+ .btn-success {
+    background-color    : #EE4D47 !important; 
+  
+ }
+ .myc{
+     color: #EE4D47;
+ }
+ #tri{
+    position: absolute;
+width: 31px;
+height: 33px;
+left: 256px;
+top: 67px;
+color: #fff;
+}
+.mynav{
+    width: 80%;
+}
+.myt{
+    position:relative;
+    left: -20px;
+    margin-top: 200px;
+}
+.top-buffer { margin-top:300px; }
+p{
+    font-family: 'Rubik', sans-serif;
+}
+.cbg{
+background: #FCDDD4;
+}
+.mya{
+background-color: white !important;
+color: #EE4D47 !important;
+}
+footer{
+  
+ background-image: url(./images/footer-zigzag.png);
+ background-color: #0F264C;
+
+}
+form {
+
+    background-color: white !important;
+}
+
+ 
